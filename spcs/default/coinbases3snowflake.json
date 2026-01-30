@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1769777746462,
+    "description" : "coinbase_s3_snowflake",
+    "identifier" : "coinbases3snowflake",
+    "lastModifiedTimestamp" : 1769777746462,
+    "name" : "coinbase_s3_snowflake",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
