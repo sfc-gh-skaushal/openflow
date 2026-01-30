@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1769776671986,
+    "description" : "Coinbase transaction read via API",
+    "identifier" : "coinbasesnowflake",
+    "lastModifiedTimestamp" : 1769776671986,
+    "name" : "coinbase_snowflake",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
