@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1769777680767,
+    "description" : "Loading Coinbase transactions data into snowflake",
+    "identifier" : "coinbasesnowflake",
+    "lastModifiedTimestamp" : 1769777680767,
+    "name" : "coinbase_snowflake",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
